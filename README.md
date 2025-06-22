@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zeeshan Khan
+- 👋 Hi, I’m Zeeshan Khan, a computer science major at the University of Illinois Urbana-Champaign, graduating in 2026.
 - 👀 I’m interested in developing products that help the Muslim Ummah.
 - 🌱 I’m currently learning about data structures and algorithms and other technologies involved in creating websites and apps.
 - 💞️ I’m looking to collaborate on anything that will help me grow.
