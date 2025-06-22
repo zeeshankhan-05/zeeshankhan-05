@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zeeshankhan-05
-- 👀 I’m interested in developing tools that help the Ummah.
+- 👋 Hi, I’m Zeeshan Khan
+- 👀 I’m interested in developing products that help the Muslim Ummah.
 - 🌱 I’m currently learning about data structures and algorithms and other technologies involved in creating websites and apps.
 - 💞️ I’m looking to collaborate on anything that will help me grow.
 - 📫 Reach me at zeeshanxkhan05@gmail.com or at https://www.linkedin.com/in/zeeshankhan05/
