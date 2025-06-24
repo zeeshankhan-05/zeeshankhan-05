@@ -22,13 +22,13 @@ Boosted student test scores by 25% through customized instruction in Algebra, Pr
 
 ## 🛠️ Notable Projects
 
-### ♟️ ChessPath[https://github.com/zeeshankhan-05/ChessRoadmap]
+### ♟️ ChessPath [https://github.com/zeeshankhan-05/ChessRoadmap]
 Built with HTML, CSS, and JavaScript to create an interactive chess learning platform that guides players from beginner (0 ELO) to master (2000+ ELO) levels through a detailed roadmap with resources to improve skills.
 
-### 🏦 Heiken Ashi Backtester[https://github.com/zeeshankhan-05/Heiken-Ashi-Backtester]
+### 🏦 Heiken Ashi Backtester [https://github.com/zeeshankhan-05/Heiken-Ashi-Backtester]
 Created Python backtesting framework using technical indicators and Heiken-Ashi analysis, achieving 28.45% return.
 
-### 📿 Apple Watch Tasbih App[https://github.com/zeeshankhan-05/TasbihWatchApp]
+### 📿 Apple Watch Tasbih App [https://github.com/zeeshankhan-05/TasbihWatchApp]
 Developed a Tasbih app with SwiftUI and WatchKit, earning a 90% recommendation rate and 4.44/5 satisfaction.
 
 ---
