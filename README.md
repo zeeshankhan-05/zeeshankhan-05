@@ -35,9 +35,9 @@ Developed a Tasbih app with SwiftUI and WatchKit, earning a 90% recommendation r
 
 ## 🧰 Tech Stack
 
-**Languages:** Java, Python, C++, Swift, R, JavaScript, C, Go, Bash, HTML/CSS
-**Frameworks:** React Native, React.js, Next.js, Node.js, Express, PyTorch, Flask, TensorFlow, SwiftUI, Tailwind CSS  
-**Tools:** AWS, Supabase, MongoDB, PostgreSQL, Docker, Ghidra, Git, Nmap, Kali Linux, Visual Studio Code, Xcode, Android Studio, IntelliJ, Figma, Postman, Matplotlib, scikit-learn, NumPy, pandas
+**Languages**: Java, Python, C++, Swift, R, JavaScript, C, Go, Bash, HTML/CSS
+**Frameworks**: React Native, React.js, Next.js, Node.js, Express, PyTorch, Flask, TensorFlow, SwiftUI, Tailwind CSS
+**Tools**: AWS, Supabase, MongoDB, PostgreSQL, Docker, Ghidra, Git, Nmap, Kali Linux, Visual Studio Code, Xcode, Android Studio, IntelliJ, Figma, Postman, Matplotlib, scikit-learn, NumPy, pandas
 
 ---
 
