@@ -1,6 +1,6 @@
 # 👋 I'm Zeeshan Khan
 
-🎓 **CS 26' @ UIUC** | 🕋 **Full-Stack Developer @ Ummahfy** | 🤖 **Software Engineering & AI**
+🎓 **CS 26' @ University of Illinois Urbana-Champaign** | 🕋 **Full-Stack Developer @ Ummahfy** | 🤖 **Software Engineering & AI**
 
 I develop technology that Muslim Ummah.
 
@@ -11,12 +11,11 @@ I develop technology that Muslim Ummah.
 ### 🌏 Full-Stack Developer @ Ummahfy
 Built backend architecture using Supabase and Next.js, designing database schema and API routes for various pages for 100s of masjids across the United States to design and deploy.
 
-### ⛳️ Course Assistant @ UIUC CS 124
+### ⛳️ Introduction to Computer Science I (CS 124) Course Assistant @ University of Illinois Urbana-Champaign
 Supported a class of over 1000 students in a course aimed at teaching the fundamentals of Java programming.
 
 ### 🧮 Mathematics Instructor @ Mathnasium - The Math Learning Center
 Boosted student test scores by 25% through customized instruction in Algebra, Pre-Calculus, and Geometry.
-
 
 ---
 
@@ -35,7 +34,7 @@ Developed a Tasbih app with SwiftUI and WatchKit, earning a 90% recommendation r
 
 ## 🧰 Tech Stack
 
-**Languages:** Java, Python, C++, Swift, R, JavaScript, C, Go, Bash, HTML/CSS
+**Languages:** Java, Python, C++, Swift, R, JavaScript, HTML/CSS
 
 **Frameworks:** React Native, React.js, Next.js, Node.js, Express, PyTorch, Flask, TensorFlow, SwiftUI, Tailwind CSS  
 
