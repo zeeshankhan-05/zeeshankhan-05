@@ -6,7 +6,7 @@ I develop technology that Muslim Ummah.
 
 ---
 
-## 🔬 Research & Engineering Highlights
+## 🔬 Experience
 
 ### 🌏 Full-Stack Developer @ Ummahfy
 Built backend architecture using Supabase and Next.js, designing database schema and API routes for various pages for 100s of masjids across the United States to design and deploy.
@@ -19,7 +19,7 @@ Boosted student test scores by 25% through customized instruction in Algebra, Pr
 
 ---
 
-## 🛠️ Notable Projects
+## 🛠️ Projects
 
 ### ♟️ ChessPath [https://github.com/zeeshankhan-05/ChessRoadmap]
 Built with HTML, CSS, and JavaScript to create an interactive chess learning platform that guides players from beginner (0 ELO) to master (2000+ ELO) levels through a detailed roadmap with resources to improve skills.
