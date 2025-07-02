@@ -1,6 +1,6 @@
 # 👋 I'm Zeeshan Khan
 
-🎓 **CS 26' @ University of Illinois Urbana-Champaign** | 🕋 **Full-Stack Developer @ Ummahfy** | 🤖 **Software Engineering & AI**
+🎓 **CS 26' @ University of Illinois Urbana-Champaign** | 🕋 **Full-Stack Developer @ Ummahfy** | 🤖 **Software Engineering & AI/ML**
 
 I develop technology that Muslim Ummah.
 
