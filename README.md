@@ -2,7 +2,7 @@
 
 🎓 **CS 26' @ University of Illinois Urbana-Champaign** | 🕋 **Full-Stack Developer @ Ummahfy** | 🤖 **Software Engineering & AI/ML**
 
-I develop technology that Muslim Ummah.
+I develop technology that helps the Muslim Ummah.
 
 ---
 
