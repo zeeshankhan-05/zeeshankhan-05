@@ -21,7 +21,7 @@ Boosted student test scores by 25% through customized instruction in Algebra, Pr
 
 ## 🛠️ Projects
 
-### ♟️ ChessPath [https://github.com/zeeshankhan-05/ChessRoadmap]
+### ♟️ ChessPath [https://github.com/zeeshankhan-05/ChessPath]
 Built with HTML, CSS, and JavaScript to create an interactive chess learning platform that guides players from beginner (0 ELO) to master (2000+ ELO) levels through a detailed roadmap with resources to improve skills.
 
 ### 🏦 Heiken Ashi Backtester [https://github.com/zeeshankhan-05/Heiken-Ashi-Backtester]
