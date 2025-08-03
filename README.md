@@ -2,8 +2,6 @@
 
 **Computer Science 26' @ University of Illinois Urbana-Champaign**
 
-I develop technology that helps the Muslim Ummah.
-
 ---
 
 ## Contact
