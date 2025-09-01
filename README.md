@@ -8,7 +8,7 @@ Check out my [coding portfolio](https://zeeshan-khan-portfolio.vercel.app/)!
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[linkedin-link](https://www.linkedin.com/in/zeeshankhan05/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshankhan05/)
 
 ## 💻 Tech Stack:
 
