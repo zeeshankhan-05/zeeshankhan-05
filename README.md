@@ -1,23 +1,14 @@
-# Hi 👋 I'm Zeeshan Khan
+# I'm Zeeshan Khan
 
 ## 👋 About Me:
 
-I am a second-year computer science student at University of Illinois Urbana-Champaign, passionate about [interest 1], [interest 2], and [interest 3].
-
-## 🚀 What I'm Up To
-
-• 🧠 Exploring [Technology/Field] with [specific tool/framework]
-• 💻 Building [type of applications] with [technology stack]
+I am a second-year computer science student at University of Illinois Urbana-Champaign, passionate about building technology to benefit the Muslim Ummah.
 
 Check out my [coding portfolio](https://zeeshan-khan-portfolio.vercel.app/)!
 
-## 🎓 About Me
-
-I'm also a [role/description], sharing my [expertise area] passion, and any advice on:
-
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin-link])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[linkedin-link](https://www.linkedin.com/in/zeeshankhan05/)])
 
 ## 💻 Tech Stack:
 
