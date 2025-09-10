@@ -2,7 +2,7 @@
 
 ## 👋 About Me:
 
-I am a second-year computer science student at University of Illinois Urbana-Champaign, passionate about building technology to benefit the Muslim Ummah.
+I am a computer science student in their junior year at University of Illinois Urbana-Champaign, passionate about building technology to benefit the Muslim Ummah.
 
 Check out my [coding portfolio](https://zeeshan-khan-portfolio.vercel.app/)!
 
