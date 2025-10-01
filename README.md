@@ -4,7 +4,7 @@
 
 I am a computer science student in their junior year at University of Illinois Urbana-Champaign, passionate about building technology to benefit the Muslim Ummah.
 
-Check out my [coding portfolio](https://zeeshan-khan-portfolio.vercel.app/)!
+Check out my [portfolio](https://zeeshan-khan-portfolio.netlify.app/)!
 
 ## 🌐 Connect with me:
 
