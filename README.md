@@ -1,4 +1,4 @@
-# I'm Zeeshan Khan
+# Zeeshan Khan
 
 ## 👋 About Me:
 
