@@ -4,7 +4,7 @@
 
 I'm a junior studying Computer Science at theUniversity of Illinois Urbana-Champaign who is passionate about building technology to benefit the Muslim Ummah. I’m also a part of Disruption Lab at Gies and Muslim Tech Collaborative where we develop products that help our respective clients to improve their business.
 
-In addition to these project-based RSOs, I'm also comfortable with Java and React, along with experience in MongoDB and SQL and AWS.
+In addition to these project-based RSOs, I'm also comfortable with Java and React, along with experience in MongoDB, SQL and AWS.
 
 Post-graduation in May 2027, I am will develop technology that helps Muslims and other people, Inshallah.
 
