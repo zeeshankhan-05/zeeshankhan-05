@@ -8,11 +8,7 @@ In addition to these project-based RSOs, I'm also comfortable with Java and Reac
 
 Post-graduation in May 2027, I am will develop technology that helps Muslims and other people, Inshallah.
 
-Check out my [portfolio](https://zeeshan-khan-portfolio.netlify.app/)!
-
-## 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshankhan05/)
+Check out my [portfolio](https://zeeshan-khan-portfolio.netlify.app/) and [LinkedIn](https://www.linkedin.com/in/zeeshankhan05/)!
 
 ## 💻 Tech Stack:
 
