@@ -6,7 +6,7 @@ I'm studying Computer Science at the University of Illinois Urbana-Champaign and
 
 In addition to these project-based RSOs, I'm also comfortable with Java and React, along with experience in MongoDB, SQL and AWS.
 
-Post-graduation in December 2026, I am will develop technology that helps Muslims and other people, Inshallah.
+Feel free to connect with me!
 
 Check out my [portfolio](https://zeeshan-khan-portfolio.netlify.app/) and [LinkedIn](https://www.linkedin.com/in/zeeshankhan05/)!
 
