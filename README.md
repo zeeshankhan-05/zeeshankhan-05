@@ -2,9 +2,7 @@
 
 ## 👋 About Me:
 
-I'm studying Computer Science at the University of Illinois Urbana-Champaign and I enjoy building real products and iterating over the design process, and want to start building technology to benefit the Muslim Ummah.
-
-Feel free to reach out with me!
+Hi I’m Zeeshan I’m a Computer Science student at University of Illinois Urbana-Champaign and enjoy building impactful technology to help others.
 
 Check out my [portfolio](https://zeeshan-khan-portfolio.netlify.app/) and [LinkedIn](https://www.linkedin.com/in/zeeshankhan05/)!
 
