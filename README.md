@@ -11,7 +11,7 @@ Check out my [portfolio](https://zeeshan-khan-portfolio.netlify.app/) and connec
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=ZeeshanKhan05&theme=default&card_width=1000"
+      src="https://streak-stats.demolab.com/?user=zeeshankhan-05&theme=default&card_width=1000"
       alt="Zeeshan Khan's GitHub contribution streak"
       width="100%"
     />
