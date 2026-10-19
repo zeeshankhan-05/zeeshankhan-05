@@ -4,7 +4,7 @@
 
 Software Engineering Intern @ Energy CX.
 
-Check out my [LinkedIn](https://www.linkedin.com/in/zeeshankhan05/)!
+Check out my [LinkedIn](https://www.linkedin.com/in/zeeshankhan05/).
 
 ## GitHub Stats
 
