@@ -1,12 +1,12 @@
 # Zeeshan Khan
 
-## 👋 About Me
+## About Me
 
-Hi, I'm Zeeshan! I'm a Computer Science student at the University of Illinois Urbana-Champaign, and I enjoy building impactful technology to help others.
+Software Engineering Intern @ Energy CX.
 
-Check out my [portfolio](https://zeeshan-khan-portfolio.netlify.app/) and connect with me on [LinkedIn](https://www.linkedin.com/in/zeeshankhan05/)!
+Check out my [LinkedIn](https://www.linkedin.com/in/zeeshankhan05/)!
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
